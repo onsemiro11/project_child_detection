@@ -9,7 +9,7 @@
    - 데이터 용량이 커서 주제에 가장 관련이 있는 데이터만 남기고 모두 삭제하여 용량 최소화 진행
    - 분석을 하기 위해 json 파일에 있는데 영상데이터의 정보들을 frame단위로 캡쳐
    - frame에 맞는 json 정보를 가져와서 child를 1, adult를 0으로 하여 encoding을 진행.
-3. 분석
+3. 분석 & 결과
   
 (SSD- Single Shot multibox Detector)
   - import libraries
