@@ -43,3 +43,12 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDat
 yolo 좌표로 변환한 값들이 잘 이미지에 그려지는지 확인하는 코드(jupyter에서 생략된 부분, 업로드 용량으로 인해)
 <img width="672" alt="image" src="https://user-images.githubusercontent.com/49609175/203236613-38003ea7-44fc-4b3b-8c8e-880624747eb4.png">
 
+
+# 프로젝트 중간 진행 현황
+
+
+모든 전처리가 끝났고 모델을 돌리던 중 
+
+dataset의 folder 구조에 문제가 있어 YOLO부분에서 에러가 나타났다.
+
+이부분을 해결하고 계속 진행해 보겠다.
