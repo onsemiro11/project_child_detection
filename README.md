@@ -4,7 +4,7 @@
 
 [프로젝트 과정]
 
-1. 데이터 수집 : AIhub 사이트에서 데이터를 가져옴.
+1. 데이터 수집 : AIhub 사이트에서 데이터를 가져옴.https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=169
 2. 전처리
    - 데이터 용량이 커서 주제에 가장 관련이 있는 데이터만 남기고 모두 삭제하여 용량 최소화 진행
    - 분석을 하기 위해 json 파일에 있는데 영상데이터의 정보들을 frame단위로 캡쳐
