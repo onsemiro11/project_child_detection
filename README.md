@@ -33,6 +33,7 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDat
   - 어린이 어른 데이터셋 구현
   - 신경망 구현
   - 손실함수 구현 및 학습
+  - inference 실시
   
 (Yolo v5 - You only look once)
   - 모델을 진행하기 전에 Yolo 좌표로 변환해주는 과정 진행
