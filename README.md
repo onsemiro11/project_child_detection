@@ -12,7 +12,8 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDat
    - frame에 맞는 json 정보를 가져와서 child를 1, adult를 0으로 하여 encoding을 진행.
 
 분석하는 도중 이미지 mapping 확인하는 결과값(jupyter에서 생략된 부분. 업로드 용량으로 인해)
-<img width="534" alt="image" src="https://user-images.githubusercontent.com/49609175/203236377-ec423138-fabe-4b79-a61d-f2b3c09caaa0.png">
+<img width="534" alt="image" src="https://user-images.githubusercontent.com/49609175/203236377-ec423138-fabe-4b79-a61d-f2b3c09caaa0.png" width="500" height="300"
+>
 
 3. 분석 & 결과
   
@@ -41,7 +42,7 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDat
   - webcam으로 분석 결과 확인
 
 yolo 좌표로 변환한 값들이 잘 이미지에 그려지는지 확인하는 코드(jupyter에서 생략된 부분, 업로드 용량으로 인해)
-<img width="672" alt="image" src="https://user-images.githubusercontent.com/49609175/203236613-38003ea7-44fc-4b3b-8c8e-880624747eb4.png">
+<img width="672" alt="image" src="https://user-images.githubusercontent.com/49609175/203236613-38003ea7-44fc-4b3b-8c8e-880624747eb4.png" width="500" height="300">
 
 
 # 프로젝트 중간 진행 현황
